@@ -1,7 +1,7 @@
 {
-    "versionCode": 3,
-    "versionName": "3.0",
+    "versionCode": 4,
+    "versionName": "3.1.0",
     "downloadUrl": "https://github.com/alizinhom2/smart-sheets-releases/releases/latest/download/SmartSheets.apk",
-    "changelog": " ما الجديد في هذا الإصدار تم التثبيت والتحديث للتجربة ",
+    "changelog": "🎉 تحديث تجريبي جديد!\n\n• اختبار نظام التحديث التلقائي\n• سيتم تحميل APK مباشرة داخل التطبيق\n• بعد التحميل سيفتح المثبّت تلقائياً",
     "mandatory": false
 }
