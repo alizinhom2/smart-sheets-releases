@@ -1,7 +1,7 @@
 {
-    "versionCode": 3,
-    "versionName": "3.1",
+    "versionCode": 4,
+    "versionName": "3.0",
     "downloadUrl": "https://github.com/alizinhom2/smart-sheets-releases/releases/latest/download/SmartSheets.apk",
-    "changelog": "تجريب",
+    "changelog": "تم تطبيق تحسينات جديدة وتغير شكل المحرر كما تم حل مشكلة البحث الخارجي وايضا حل مشكلة الطباعة وإدراج الصور مع تحيات علي زينهم علي 😎",
     "mandatory": true
 }
