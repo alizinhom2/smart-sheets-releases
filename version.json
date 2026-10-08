@@ -1,7 +1,7 @@
 {
     "versionCode": 2,
-    "versionName": "1.1.0",
-    "downloadUrl": "https://github.com/USERNAME/REPO/releases/download/v1.1.0/SmartSheets.apk",
-    "changelog": "• إصلاح مشكلة حفظ JSON\n• تحسين سرعة البصمة",
+    "versionName": "2.0.",
+    "downloadUrl": "https://github.com/alizinhom2/smart-sheets-releases/releases/latest/download/SmartSheets.apk",
+    "changelog": " ما الجديد في هذا الإصدار تم التثبيت والتحديث للتجربة ",
     "mandatory": false
 }
