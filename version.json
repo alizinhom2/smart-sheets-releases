@@ -1,7 +1,7 @@
 {
-    "versionCode": 5,
-    "versionName": "V5.0",
+    "versionCode": 3,
+    "versionName": "3.0",
     "downloadUrl": "https://github.com/alizinhom2/smart-sheets-releases/releases/latest/download/SmartSheets.apk",
-    "changelog": "تجريبي",
+    "changelog": "",
     "mandatory": true
 }
